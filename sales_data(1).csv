@@ -1,0 +1,16 @@
+Date,Product,Category,Region,Quantity,Sales
+2026-01-05,Laptop,Electronics,North,2,75000
+2026-01-08,Phone,Electronics,South,3,45000
+2026-01-12,Laptop,Electronics,North,2,82000
+2026-01-16,Tablet,Electronics,East,4,30000
+2026-01-20,Phone,Electronics,South,3,52000
+2026-01-25,Tablet,Electronics,West,2,35000
+2026-02-03,Laptop,Electronics,West,1,68000
+2026-02-09,Phone,Electronics,North,4,61000
+2026-02-14,Tablet,Electronics,East,5,41000
+2026-02-19,Laptop,Electronics,South,2,79000
+2026-03-02,Phone,Electronics,West,3,57000
+2026-03-11,Laptop,Electronics,East,2,88000
+2026-03-17,Tablet,Electronics,North,3,39000
+2026-03-23,Phone,Electronics,South,5,73000
+2026-03-29,Laptop,Electronics,West,2,91000
